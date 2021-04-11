@@ -1,0 +1,196 @@
+input.error { 
+    border: 3px solid #ff0000; /** Красная рамка вокруг поля(input) при ошибке**/
+} 
+label.error { 
+    color: #ff0000; /** Меняем цвет текста при ошибке**/
+    font-weight: normal; 
+}
+
+form{
+	position: absolute;
+width: 100%;
+height: 100%;
+left: 0px;
+top: 0px;
+
+background: url(../img/фон.jpg);
+}
+
+.box {
+position: absolute;
+width: 827px;
+height: 783px;
+left: 306px;
+top: 120px;
+
+background: rgba(80, 162, 139, 0.7);
+backdrop-filter: blur(4px);
+/* Note: backdrop-filter has minimal browser support */
+
+border-radius: 50px;
+}
+
+.area1{
+position: absolute;
+width: 370px;
+height: 34px;
+left: 534px;
+top: 230px;
+border: 0;
+font-size: 18px;
+padding-left: 20px;
+
+background: #FFFFFF;
+border-radius: 10px;
+}
+.area2{
+position: absolute;
+width: 370px;
+height: 34px;
+left: 534px;
+top: 342px;
+border: 0;
+font-size: 18px;
+padding-left: 20px;
+
+background: #FFFFFF;
+border-radius: 10px;
+}
+.area3{
+position: absolute;
+width: 370px;
+height: 34px;
+left: 534px;
+top: 454px;
+border: 0;
+font-size: 18px;
+padding-left: 20px;
+
+background: #FFFFFF;
+border-radius: 10px;	
+}
+.area4{
+position: absolute;
+width: 370px;
+height: 34px;
+left: 534px;
+top: 566px;
+border: 0;
+font-size: 18px;
+padding-left: 20px;
+
+background: #FFFFFF;
+border-radius: 10px;
+}
+.area5{
+position: absolute;
+width: 370px;
+height: 34px;
+left: 534px;
+top: 678px;
+border: 0;
+font-size: 18px;
+padding-left: 20px;
+
+background: #FFFFFF;
+border-radius: 10px;
+}
+.text1{
+position: absolute;
+width: 363px;
+height: 26px;
+left: 534px;
+top: 175px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 29px;
+
+color: #FFFFFF;
+	
+}
+.text2{
+position: absolute;
+width: 363px;
+height: 26px;
+left: 534px;
+top: 287px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 29px;
+
+color: #FFFFFF;	
+}
+.text3{
+position: absolute;
+width: 363px;
+height: 26px;
+left: 534px;
+top: 399px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 29px;
+
+color: #FFFFFF;
+}
+.text4{
+position: absolute;
+width: 363px;
+height: 26px;
+left: 534px;
+top: 511px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 29px;
+
+color: #FFFFFF;
+	
+}
+.text5{
+position: absolute;
+width: 363px;
+height: 26px;
+left: 534px;
+top: 623px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 29px;
+
+color: #FFFFFF;	
+}
+button {
+position: absolute;
+width: 370px;
+height: 59px;
+left: 535px;
+top: 788px;
+border: 0;
+
+background: #FFFFFF;
+border-radius: 15px;
+}
+
+a{
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 29px;
+
+color: #0B3E35;
+}
